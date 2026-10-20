@@ -1,0 +1,7 @@
+jupyter
+jupyterlab-vim
+scikit-learn
+pandas
+polars
+numpy
+scipy
